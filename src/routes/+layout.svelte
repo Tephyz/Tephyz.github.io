@@ -13,7 +13,7 @@
   
   </script>
   <div 
-  class="relative flex flex-col max-w-[1400px] max-auto w-full text-sm sm:text-base min-h-screen"
+  class="relative flex flex-col max-w-[1900px] max-auto w-full text-sm sm:text-base min-h-screen"
 >
    <div class={"fixed botton-0 w-full duration-200 flex p-10 z-[10] " + 
    ( y > 0 
