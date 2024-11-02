@@ -7,7 +7,7 @@
         <p><b class="pr-2">Email</b> stephanygalo9.gmail.com</p>
         <p>
             <b class="pr-2">Facebook</b> 
-            <a class="text-violet-400" target="_blank" href="#">
+            <a class="text-violet-400" target="_blank" href="https://www.facebook.com/stephany.galo.5">
                 Stephany Galo<sup 
                 ><span class="text-xs scale-75 pl-0.5">
                     <i 
@@ -20,7 +20,7 @@
         </p>
             <p>
                 <b class="pr-2">Instagram</b> 
-                <a class="text-violet-400" target="_blank" href="#">
+                <a class="text-violet-400" target="_blank" href="https://www.instagram.com/yur_sihyyyyy/">
                     yur_sihyyyyy<sup 
                     ><span class="text-xs scale-75 pl-0.5">
                         <i 

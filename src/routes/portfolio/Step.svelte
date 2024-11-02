@@ -1,6 +1,4 @@
 <script>
-    import Footer from "./Footer.svelte";
-  
       export let step;
   </script>
   
