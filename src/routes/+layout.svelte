@@ -12,9 +12,9 @@
   // Sample tabs array for demonstration (if not already defined in Header)
   let tabs = [
       { name: "Home", link: "/" },
-      { name: "Portfolio", link: "/portfolio" },
-      { name: "About", link: "/about-me" },
-      { name: "Contact", link: "/contact" }
+      { name: "Portfolio", link: "portfolio/" },
+      { name: "About", link: "about-me/" },
+      { name: "Contact", link: "contact/" }
       
   ];
 </script>
